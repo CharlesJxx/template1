@@ -29,6 +29,27 @@ p {
   font-size: 15px;
   color: #7d7d7d;
 }
+h1,.h1{
+  font-size: 36px;
+}
+h2,.h2{
+  font-size: 30px;
+}
+h3,.h3{
+  font-size: 24px;
+}
+h4,.h4{
+  font-size: 18px;
+}
+h5,.h5{
+  font-size: 14px;
+}
+h6,.h6{
+  font-size: 12px;
+}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+  line-height: 1.1;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Poppins', sans-serif;
   font-weight: bold;
@@ -248,16 +269,20 @@ hr{
     -webkit-transform: scale(1.0);
   }
 }
+.abt-worker-con,.services-con,.works-con-pic,.popular-con,.clients-con,.footer-con,.sub-footer-con,.left-sidebar,.right-sidebar,.about-introduction,.productions-introduction,.history-date,.history-con,.trademark-pic,.career-con,.service-details-left-pic,.service-details-right-pic,.service-details-article,.project-con,.career-details-con,.project-details-bottom,.news-con,.comment-fields,.three-icons,#enter-email-filed{
+  float: left;
+}
+
+.logo-container,.right-nav-list.services-con,.popular-con,.clients-con,.footer-con,.sub-footer-con,.left-sidebar,.right-sidebar,.about-introduction,.productions-introduction,.history-date,.history-con,.trademark-pic,.career-con,.service-details-left-pic,.service-details-right-pic,.service-details-article,.project-con,.career-details-con,.project-details-bottom,.news-con,.comment-fields,.three-icons{
+  padding: 0px 15px;
+}
 
 .abt-worker-con{
   width: 50%;
-  float: left;
 }
 
 .services-con{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 
 .works .container{
@@ -266,7 +291,6 @@ hr{
 
 .works-con-pic{
   width: 33.33333333%;
-  float: left;
 }
 
 .works .row{
@@ -279,94 +303,58 @@ hr{
 
 .popular-con{
     width: 33.3333333%;
-    float: left;
-    padding: 0px 15px;
 }
 
 .clients-con{
   width: 16.66666667%;
-  float: left;
-  padding: 0px 15px;
 }
 .footer-con{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .sub-footer-con{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .left-sidebar{
   width: 25%;
-  float: left;
-  padding: 0px 15px;
 }
 .right-sidebar{
   width: 75%;
-  float: left;
-  padding: 0px 15px;
 }
 .about-introduction{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .productions-introduction{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .history-date{
   width: 16.66666667%;
-  float: left;
-  padding: 0px 15px;
 }
 .history-con{
   width: 83.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .trademark-pic{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .career-con{
   width: 25%;
-  float: left;
-  padding: 0px 15px;
 }
 .service-details-left-pic{
   width: 66.66666667%;
-  float: left;
-  padding: 0px 15px;
 }
 .service-details-right-pic{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .service-details-article{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .project-con{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .career-details-con{
   width:33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .project-details-bottom{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 #project-details-bottom{
   overflow: hidden;
@@ -374,25 +362,18 @@ hr{
 }
 .news-con{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 .comment-fields{
   width: 50%;
-  float: left;
-  padding: 0px 15px;
 }
 .three-icons{
   width: 33.33333333%;
-  float: left;
-  padding: 0px 15px;
 }
 #three-icons{
   overflow: hidden;
 }
 #enter-email-filed{
   width: auto;
-  float: left;
 }
 
 

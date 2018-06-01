@@ -414,23 +414,16 @@
   .user-name {
     padding-right: 20px;
   }
-  .top-left{
+  .top-left,.logo-container,.abt-worker-con,.services-con,.popular-con,.footer-con,.right-sidebar,.about-introduction,.trademark-pic,.productions-introduction,.history-date,.history-con,.service-details-left-pic,.service-details-right-pic,.service-details-article,.career-details-con,.project-details-bottom,.news-con,.three-icons{
     width: 100%;
+    padding: 0px 15px;
   }
+
   .top-right{
     display: none;
   }
   .main-menu-area{
     overflow: hidden;
-  }
-  .logo-container{
-    width: 100%;
-  }
-  .abt-worker-con{
-    width: 100%;
-  }
-  .services-con{
-    width: 100%;
   }
   .counter-con{
     width: 50%;
@@ -438,14 +431,8 @@
   .works-con-pic{
     width: 50%;
   }
-  .popular-con{
-    width: 100%;
-  }
   .clients-con{
     width: 50%;
-  }
-  .footer-con{
-    width: 100%;
   }
   #enter-email-filed{
     width: 72%;
@@ -453,50 +440,11 @@
   .left-sidebar{
     display: none;
   }
-  .right-sidebar{
-    width:100%;
-  }
-  .about-introduction{
-    width: 100%;
-  }
-  .trademark-pic{
-    width: 100%;
-  }
-  .productions-introduction{
-    width: 100%;
-  }
-  .history-date{
-    width: 100%;
-  }
-  .history-con{
-    width: 100%;
-  } 
   .career-con{
     width: 50%;
   }
-  .service-details-left-pic{
-    width: 100%;
-  }
-  .service-details-right-pic{
-    width: 100%;
-  }
-  .service-details-article{
-    width: 100%;
-  }
   .project-con{
     width: 50%;
-  }
-  .career-details-con{
-    width: 100%;
-  }
-  .project-details-bottom{
-    width: 100%;
-  }
-  .news-con{
-    width: 100%;
-  }
-  .three-icons{
-    width: 100%;
   }
 }
  
@@ -508,6 +456,9 @@
   }
   .portfolio-caption {
     padding: 20px;
+  }
+  #enter-email-filed{
+    width: 70%;
   }
 }
 
@@ -561,5 +512,11 @@
   }
   .counter .counter-box {
     margin-bottom: 40px;
+  }
+  #enter-email-filed{
+    width: 66%;
+  }
+  .sub-footer-con{
+    width: 100%;
   }
 }
