@@ -313,6 +313,11 @@ hr{
   float: left;
   padding: 0px 15px;
 }
+.productions-introduction{
+  width: 50%;
+  float: left;
+  padding: 0px 15px;
+}
 .history-date{
   width: 16.66666667%;
   float: left;
@@ -486,6 +491,11 @@ hr{
   width: 50%;
   float: left;
   padding:0px 15px;
+}
+.mobile-menu-con{
+  width: 100%;
+  float: left;
+  padding: 0px 15px;
 }
 
 /* main-menu-area */

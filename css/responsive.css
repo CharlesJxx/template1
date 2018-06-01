@@ -41,7 +41,12 @@
   .abt-worker {
     padding-bottom: 90px;
   }
-  
+  .top-left{
+    width: 41.66666667%;
+  }
+  .top-right{
+    width: 58.33333333%;
+  }
 }
 
  
@@ -152,6 +157,60 @@
   }
   .breadcrumb h1 {
     font-size: 30px;
+  }
+  .top-left{
+    width: 41.66666667%;
+  }
+  .top-right{
+    width: 58.33333333%;
+  }
+  .logo-container{
+    width: 100%;
+  }
+  .abt-worker-con{
+    width: 100%;
+  }
+  .services-con{
+    width: 50%;
+  }
+  .popular-con{
+    width: 50%;
+  }
+  .clients-con{
+    width: 33.33333333%;
+  }
+  .footer-con{
+    width: 100%;
+  }
+  #enter-email-filed{
+    width: 84%;
+  }
+  .left-sidebar{
+    display: none;
+  }
+  .right-sidebar{
+    width: 100%;
+  }
+  .about-introduction{
+    width: 100%;
+  }
+  .history-date{
+    width: 100%;
+  }
+  .history-con{
+    width: 100%;
+  } 
+  .career-con{
+    width: 50%;
+  }
+  .service-details-left-pic{
+    width:100%;
+  }
+  .service-details-right-pic{
+    width: 50%;
+  }
+  .news-con{
+    width: 50%;
   }
 }
 
@@ -354,6 +413,90 @@
   }
   .user-name {
     padding-right: 20px;
+  }
+  .top-left{
+    width: 100%;
+  }
+  .top-right{
+    display: none;
+  }
+  .main-menu-area{
+    overflow: hidden;
+  }
+  .logo-container{
+    width: 100%;
+  }
+  .abt-worker-con{
+    width: 100%;
+  }
+  .services-con{
+    width: 100%;
+  }
+  .counter-con{
+    width: 50%;
+  }
+  .works-con-pic{
+    width: 50%;
+  }
+  .popular-con{
+    width: 100%;
+  }
+  .clients-con{
+    width: 50%;
+  }
+  .footer-con{
+    width: 100%;
+  }
+  #enter-email-filed{
+    width: 72%;
+  }
+  .left-sidebar{
+    display: none;
+  }
+  .right-sidebar{
+    width:100%;
+  }
+  .about-introduction{
+    width: 100%;
+  }
+  .trademark-pic{
+    width: 100%;
+  }
+  .productions-introduction{
+    width: 100%;
+  }
+  .history-date{
+    width: 100%;
+  }
+  .history-con{
+    width: 100%;
+  } 
+  .career-con{
+    width: 50%;
+  }
+  .service-details-left-pic{
+    width: 100%;
+  }
+  .service-details-right-pic{
+    width: 100%;
+  }
+  .service-details-article{
+    width: 100%;
+  }
+  .project-con{
+    width: 50%;
+  }
+  .career-details-con{
+    width: 100%;
+  }
+  .project-details-bottom{
+    width: 100%;
+  }
+  .news-con{
+    width: 100%;
+  }
+  .three-icons{
+    width: 100%;
   }
 }
  
